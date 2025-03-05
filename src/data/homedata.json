@@ -1,0 +1,71 @@
+{
+  "filters": [
+    {
+      "title": "AREA",
+      "defaultValue": "KV-CL-01",
+      "width": 120,
+      "options": [
+        { "value": "jack", "label": "Jack" },
+        { "value": "KV-CL-01", "label": "KV-CL-01" },
+        { "value": "disabled", "label": "Disabled", "disabled": true },
+        { "value": "Yiminghe", "label": "Yiminghe" }
+      ]
+    },
+    {
+      "title": "LINE",
+      "defaultValue": "LINE 01",
+      "width": 120,
+      "options": [
+        { "value": "jack", "label": "Jack" },
+        { "value": "LINE 01", "label": "LINE 01" },
+        { "value": "disabled", "label": "Disabled", "disabled": true },
+        { "value": "Yiminghe", "label": "Yiminghe" }
+      ]
+    },
+    {
+      "title": "MACHINE",
+      "defaultValue": "CL- M01",
+      "width": 120,
+      "options": [
+        { "value": "CL- M01", "label": "CL- M01" },
+        { "value": "lucy", "label": "Lucy" },
+        { "value": "disabled", "label": "Disabled", "disabled": true },
+        { "value": "Yiminghe", "label": "Yiminghe" }
+      ]
+    },
+    {
+      "title": "NHÓM",
+      "defaultValue": "Máy in",
+      "width": 120,
+      "options": [
+        { "value": "Máy in", "label": "Máy in" },
+        { "value": "lucy", "label": "Lucy" },
+        { "value": "disabled", "label": "Disabled", "disabled": true },
+        { "value": "Yiminghe", "label": "Yiminghe" }
+      ]
+    },
+    {
+      "title": "HISTORY",
+      "icon": true,
+      "defaultValue": "CL- M01",
+      "width": 120,
+      "options": [
+        { "value": "jack", "label": "Jack" },
+        { "value": "CL- M01", "label": "CL- M01" },
+        { "value": "disabled", "label": "Disabled", "disabled": true },
+        { "value": "Yiminghe", "label": "Yiminghe" }
+      ]
+    },
+    {
+      "title": "Nhân viên",
+      "defaultValue": "Nguyễn Như Vũ",
+      "width": 200,
+      "options": [
+        { "value": "jack", "label": "Jack" },
+        { "value": "Nguyễn Như Vũ", "label": "Nguyễn Như Vũ" },
+        { "value": "disabled", "label": "Disabled", "disabled": true },
+        { "value": "Yiminghe", "label": "Yiminghe" }
+      ]
+    }
+  ]
+}
